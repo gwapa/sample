@@ -3,7 +3,7 @@
 	
 	include 'dbhandler.php';
 	
-	$error = '';
+	$error = 'arcelyn pepito pondara';
 
 	if(isset($_POST['login'])){
 		$username = $_POST['username'];
